@@ -1,8 +1,4 @@
 /node_modules
 
-packaege-lock.json
-package.json
-postcss.config.js
+package-lock.json
 README.md
-tailwind.config.js
-vite.config.js
